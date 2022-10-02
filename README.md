@@ -4,6 +4,12 @@
 I'm ***Arash Karimi*** . My last name is pronounced exactly like "carry me" and that's why I use ***carry me*** in my GitHub name.
 
 In my own [website](https://www.carrymetop.com/) you can see my profile. I tried to keep it uptodate. 
+## My field of work includes:
+- [x] Software Engineer
+- [x] Full-Stack developing
+- [x] Data Analyzing
+- [x] UI/UX Design
+
 <!--
 **Arashcarryme/ArashCarryMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
