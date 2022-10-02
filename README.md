@@ -9,7 +9,10 @@ In my own [website](https://www.carrymetop.com/) you can see my profile. I tried
 - [x] Full-Stack developing
 - [x] Data Analyzing
 - [x] UI/UX Design
-
+## Experience related to the Skills
+| C Sharp | PHP | Express JS | Node JS | Vanilla JS | React JS | React Native | HTML/CSS | BootStrap | JQuery | SQL Server | Oracle DB | MySQL | MongoDB/Mongoose |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 12 Years | 6 Years | 4 Years | 4 Years | 12 Years | 4 Years | 2 Years | 15 Years | 4 Years | 4 Years | 12 Years | 12 Years | 6 Years | 4 Years |
 <!--
 **Arashcarryme/ArashCarryMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
