@@ -10,9 +10,26 @@ In my own [website](https://www.carrymetop.com/) you can see my profile. I tried
 - [x] Data Analyzing
 - [x] UI/UX Design
 ## Experience related to the Skills
-| C Sharp | PHP | Express JS | Node JS | Vanilla JS | React JS | React Native | HTML/CSS | BootStrap | JQuery | SQL Server | Oracle DB | MySQL | MongoDB/Mongoose |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 12 Years | 6 Years | 4 Years | 4 Years | 12 Years | 4 Years | 2 Years | 15 Years | 4 Years | 4 Years | 12 Years | 12 Years | 6 Years | 4 Years |
+| C Sharp | PHP | Express JS | Node JS | Vanilla JS | React JS | React Native |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 12 Years | 6 Years | 4 Years | 4 Years | 12 Years | 4 Years | 2 Years |
+
+| HTML/CSS | BootStrap | JQuery |
+| :---: | :---: | :---: |
+| 15 Years | 4 Years | 4 Years |
+
+| SQL Server | Oracle DB | MySQL | MongoDB/Mongoose |
+| :---: | :---: | :---: | :---: |
+| 12 Years | 12 Years | 6 Years | 4 Years |
+
+| Statistics | Fuzzy Logic | Neural Network | Data Analyze |
+| :---: | :---: | :---: | :---: |
+| 6 Years | 6 Years | 6 Years | 6 Years |
+
+| HCI | UX design | UX research | UX test | UX tools |
+| :---: | :---: | :---: | :---: | :---: |
+| 10 Years | 10 Years | 10 Years | 10 Years | 10 Years |
+
 <!--
 **Arashcarryme/ArashCarryMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
