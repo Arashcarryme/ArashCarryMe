@@ -1,9 +1,9 @@
 # Welcome to my github
 ![arash](https://media-exp1.licdn.com/dms/image/D4D35AQGeUv3ZkieUSw/profile-framedphoto-shrink_200_200/0/1664306180709?e=1665342000&v=beta&t=qffqse0VbpkJm2PzGboaU2xa81UlmpM1ZV-tP7ZxowE)
 ### Hi 👋
-I'm ***Arash Karimi*** . My last name is pronounced exactly like "carry me" and that's why I use ***carry me*** in my GitHub name.
+I'm ***Arash Karimi*** . My last name is pronounced exactly like "carry me" and that's why I use ***"carry me"*** in my GitHub name.
 
-In my own [website](https://www.carrymetop.com/) you can see my profile. I tried to keep it uptodate. 
+In my own [website](https://www.carrymetop.com/) you can see my profile. I tried to keep it up to date. 
 ## Fields of works
 <details>
   <summary> Details </summary>
